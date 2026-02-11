@@ -50,5 +50,5 @@ Severity is determined using geometric thresholds on crack area, length, and wid
 
 ## 🖼️ Sample Outputs
 
-Sample results can be found in:
+Sample results can be found in:results/sample_outputs
 
